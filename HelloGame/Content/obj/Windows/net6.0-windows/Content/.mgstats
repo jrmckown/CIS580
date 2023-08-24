@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/Badge1-72Px.png","C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/bin/Windows/Content/yeti.xnb","TextureProcessor","Texture2DContent",6194,20821,0.1625343
+"C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/ball.png","C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",11613,388885,0.2136717
+"C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/pngwing.com.png","C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",99207,2556885,0.0761907
+"C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/Red-Ball-PNG-Pic.png","C:/Users/jaker/source/repos/HelloGame/HelloGame/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",193670,1282133,0.0355323
